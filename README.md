@@ -8,7 +8,7 @@ My background spans healthcare, enterprise software, and connected systems, incl
 
 ## Current focus
 
-At Venntier, my work spans product definition, AI-assisted development, agentic workflows, go-to-market strategy, and product marketing.
+Through my company, Medalist AI, I contract with Venntier and work with its founder to prepare the company for launch. My work spans product definition, AI-assisted development, agentic workflows, go-to-market strategy, and product marketing.
 
 I'm especially interested in:
 
@@ -32,6 +32,6 @@ I review the resulting behavior, investigate failures, and decide what is ready 
 
 ## Experience
 
-My product background includes Spok, Image Sensing Systems, XRS/Omnitracs, One20, and MentorMate, alongside my work building Medalist and Venntier.
+My product background includes Spok, Image Sensing Systems, XRS/Omnitracs, One20, and MentorMate, alongside my work through Medalist AI and my contract work supporting Venntier's launch.
 
 This profile brings together selected projects and case studies that show how I approach product strategy and building.
