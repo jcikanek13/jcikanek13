@@ -1,16 +1,37 @@
-## Hi there 👋
+# Jim Cikanek
 
-<!--
-**jcikanek13/jcikanek13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product leadership · AI product development · Enterprise software**
 
-Here are some ideas to get you started:
+I combine product strategy, domain knowledge, and hands-on AI-assisted development to turn user problems into usable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background spans healthcare, enterprise software, and connected systems, including transportation, traffic sensing, weather, and energy. I've led products from early definition through development, launch, and growth.
+
+## Current focus
+
+At Venntier, my work spans product definition, AI-assisted development, agentic workflows, go-to-market strategy, and product marketing.
+
+I'm especially interested in:
+
+- AI assistants that connect questions to useful tools and team workflows.
+- Healthcare data and analytics that help teams create trusted evidence.
+- Faster product development through clear briefs, bounded implementation, and explicit acceptance criteria.
+
+## Featured work
+
+### [VAi: From Business Questions to Reviewed Action](https://github.com/jcikanek13/vai-product-case-study)
+
+A product case study on building Venntier's internal assistant for research, company knowledge, deterministic ROI/TCO analysis, approvals, and collaboration.
+
+The case study explains my role, the product decisions, the AI-assisted development process, and the distinction between implemented capabilities, test evidence, and remaining deployment work. The internal application and source code remain private.
+
+## How I build
+
+I start with the user problem and the outcome worth achieving. I turn that into a focused scope, workflows, and acceptance criteria, then use AI development tools to implement and iterate.
+
+I review the resulting behavior, investigate failures, and decide what is ready to advance. For AI products, I pay particular attention to source evidence, repeatable calculations, permissions, and human approval.
+
+## Experience
+
+My product background includes Spok, Image Sensing Systems, XRS/Omnitracs, One20, and MentorMate, alongside my work building Medalist and Venntier.
+
+This profile brings together selected projects and case studies that show how I approach product strategy and building.
